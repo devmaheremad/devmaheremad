@@ -1,12 +1,15 @@
 ![masterBanner](https://i.ibb.co/Y3845Bb/front-end-development-doodle-concept-illustration-web-developer-creating-website-client-web-applicat.jpg)
 
 <h1 align="center">Hi 👋, I'm Maher Almashharawi</h1>
-<h3 align="center">A highly inquisitive Front-End Developer with Reactjs, JavaScript, Typescript, Material UI and A Shopify Expert</h3>
+<h3 align="center">A highly inquisitive Front-End Developer with Reactjs, JavaScript, Typescript, Material UI, and A Shopify Expert</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmaheremad&label=Profile%20views&color=0e75b6&style=flat" alt="devmaheremad" /> </p>
 
 <p align="left"> <a href="https://twitter.com/devmaheremad" target="blank"><img src="https://img.shields.io/twitter/follow/devmaheremad?logo=twitter&style=for-the-badge" alt="devmaheremad" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmaheremad" alt="devmaheremad" /></a> </p>
+
 
 - 👨‍💻 Some of my projects are available at [https://linktr.ee/devmaheremad](https://linktr.ee/devmaheremad)
 
