@@ -10,7 +10,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmaheremad" alt="devmaheremad" /></a> </p>
 
-
 - 👨‍💻 Some of my projects are available at [https://linktr.ee/devmaheremad](https://linktr.ee/devmaheremad)
 
 - 💬 Ask me about **Reactjs, JavaScript, Typescript,Material UI and A Shopify**
