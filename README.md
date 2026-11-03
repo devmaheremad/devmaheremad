@@ -10,7 +10,5 @@ I build fast, accessible React and Next.js frontends for SaaS, e-commerce and bo
 
 **Stack:** React · Next.js · TypeScript · JavaScript · Redux Toolkit · Zustand · Material UI · Tailwind CSS · Sass · React Testing Library · Core Web Vitals · Lighthouse · PWA · SEO
 
-**Selected projects:** [KoninPay live demo](https://digits.koninstore.com/en) · [Tuby](https://github.com/devmaheremad/tuby) · [Nearby](https://github.com/devmaheremad/nearby) · [Hilarity HQ](https://github.com/devmaheremad/hilarity-hq)
-
 **Open to Senior Frontend Engineer roles (remote-first; also KSA, UAE, Europe).**
 [LinkedIn](https://www.linkedin.com/in/devmaheremad) · [CV (PDF)](https://drive.google.com/file/d/1IhayT82PmWktlbuYtWAnDIVpJUIxjxmg/view?usp=sharing) · mashmaher96@gmail.com · [All links](https://linktr.ee/devmaheremad)
