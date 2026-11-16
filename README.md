@@ -97,7 +97,8 @@ I took an app from about **55% to 95%+ on Lighthouse**, built a **FIFA World Cup
 </table>
 
 **Live storefronts on the KoninPay platform:** [Digits](https://digits.koninstore.com/en) · [Market](https://market.koninstore.com/en) · [Food](https://foodstore.koninstore.com/en) · [Fashion](https://fashion.koninstore.com/en) · [Glammart](https://glammart.koninstore.com/en) · [Gearup](https://gearup.koninstore.com/en) · [Pastries](https://pastryshop.koninstore.com/en)
-More: [AJAD FM](https://devmaheremad.com/ajad) · [Creative Laqta](https://devmaheremad.com/laqtasiteloader) · [everything on devmaheremad.com →](https://devmaheremad.com/#projects)
+
+**More:** [AJAD FM](https://devmaheremad.com/ajad) · [Creative Laqta](https://devmaheremad.com/laqtasiteloader) · [everything on devmaheremad.com →](https://devmaheremad.com/#projects)
 
 ## 💼 Experience
 
