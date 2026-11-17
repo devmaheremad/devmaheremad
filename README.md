@@ -30,24 +30,24 @@ I took an app from about **55% to 95%+ on Lighthouse**, built a **FIFA World Cup
 <table>
   <tr>
     <td width="33%" valign="top">
-      <b>From ~55% to 95%+ on Lighthouse</b><br>
+      <a href="https://devmaheremad.com/case-studies/lighthouse/"><b>From ~55% to 95%+ on Lighthouse</b></a><br>
       <sub>The Sailors · React · TypeScript</sub><br><br>
       Traced the slowdown to unoptimized images, a heavy JavaScript bundle and render-blocking fonts. Fixed imports, split routes, sized images and changed font loading. Storefronts then shipped at 95%+ on every Lighthouse category.
     </td>
     <td width="33%" valign="top">
-      <b>World Cup Qatar 2022 ticket booking</b><br>
+      <a href="https://devmaheremad.com/case-studies/world-cup/"><b>World Cup Qatar 2022 ticket booking</b></a><br>
       <sub>The Sailors · React · Material UI</sub><br><br>
       Proposed building it inside the existing platform instead of a new site, which cut the scope under a tight deadline. Kept the booking path minimal for traffic peaks. It supported about $20,000 in revenue per match event.
     </td>
     <td width="33%" valign="top">
-      <b>Choosing Next.js for a SaaS platform</b><br>
+      <a href="https://devmaheremad.com/case-studies/nextjs-saas/"><b>Choosing Next.js for a SaaS platform</b></a><br>
       <sub>Konin Cloud · Next.js · TypeScript</sub><br><br>
       The first plan was HTML, Sass and Blade. I wrote a technical comparison of both approaches (architecture, trade-offs, maintainability, SEO) that supported the team's move to Next.js for KoninPay.
     </td>
   </tr>
 </table>
 
-<p align="right"><a href="https://devmaheremad.com/#case-studies"><b>Read the full case studies →</b></a></p>
+<p align="right"><a href="https://devmaheremad.com/case-studies/"><b>Full case studies</b></a> · <a href="https://devmaheremad.com/decisions/"><b>Decisions</b></a> · <a href="https://devmaheremad.com/strengths/"><b>Strengths</b></a> · <a href="https://devmaheremad.com/stories/"><b>All stories →</b></a></p>
 
 ## 🚀 Selected work
 
@@ -104,9 +104,9 @@ I took an app from about **55% to 95%+ on Lighthouse**, built a **FIFA World Cup
 
 | Role | Company | When | Highlights |
 |---|---|---|---|
-| **Senior Frontend Developer** | Konin Cloud · Remote | May 2023 – Sep 2025 | Multi-store SaaS (KoninPay): Next.js decision and written comparison, reusable UI from Figma, REST APIs, RTL + integration + E2E tests |
-| **Senior Frontend Developer** | The Sailors · Saudi Arabia, remote | Jan 2022 – Dec 2023 | World Cup 2022 booking (~$20K per match event), ~55% → 95%+ Lighthouse, storefronts at 95%+ on every category |
-| **Frontend Developer** | Mars Innovation Technology · UAE, remote | Jan 2021 – Dec 2021 | End-to-end frontend owner of the Beljwar booking platform, 20+ Figma/XD screens, 10+ booking and business websites |
+| **Senior Frontend Developer** | [Konin Cloud](https://devmaheremad.com/work/konin-cloud/) · Remote | May 2023 – Sep 2025 | Multi-store SaaS (KoninPay): Next.js decision and written comparison, reusable UI from Figma, REST APIs, RTL + integration + E2E tests |
+| **Senior Frontend Developer** | [The Sailors](https://devmaheremad.com/work/the-sailors/) · Saudi Arabia, remote | Jan 2022 – Dec 2023 | World Cup 2022 booking (~$20K per match event), ~55% → 95%+ Lighthouse, storefronts at 95%+ on every category |
+| **Frontend Developer** | [Mars Innovation Technology](https://devmaheremad.com/work/mars-innovation-technology/) · UAE, remote | Jan 2021 – Dec 2021 | End-to-end frontend owner of the Beljwar booking platform, 20+ Figma/XD screens, 10+ booking and business websites |
 | **Internship Trainee** | Gaza Sky Geeks · Palestine | Jan 2020 – Aug 2020 | JavaScript, HTML5, CSS3 and modern frontend practices |
 
 ## 🧰 Toolbox
