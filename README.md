@@ -16,6 +16,8 @@
 
 ### Hi, I'm Maher 👋
 
+<p dir="rtl"><b>ماهر المشهراوي</b> · مهندس واجهات أمامية أول (Senior Frontend Engineer) من فلسطين · <a href="https://devmaheremad.com/ar/">الموقع بالعربية</a></p>
+
 I build fast, accessible **React** and **Next.js** frontends for **SaaS, e-commerce and booking** products. 5+ years, remote.
 I took an app from about **55% to 95%+ on Lighthouse**, built a **FIFA World Cup Qatar 2022** ticket-booking experience, and argued for **Next.js** as the foundation of a multi-store SaaS platform. I care about the decisions behind the pixels.
 
