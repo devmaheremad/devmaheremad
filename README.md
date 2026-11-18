@@ -132,6 +132,6 @@ I took an app from about **55% to 95%+ on Lighthouse**, built a **FIFA World Cup
 ---
 
 <p align="center">
-  <b>Open to Senior Frontend Engineer roles</b> · remote, or on-site in the Gulf (KSA, UAE, Qatar, Kuwait, Bahrain, Oman) and Europe · <b>available now</b><br>
+  <b>Open to Senior Frontend Engineer roles</b> · remote from anywhere, or on-site with relocation (visa sponsorship) · <b>available now</b><br>
   <a href="mailto:hello@devmaheremad.com">hello@devmaheremad.com</a> · <a href="https://devmaheremad.com">devmaheremad.com</a> · <a href="https://www.linkedin.com/in/devmaheremad">LinkedIn</a> · <a href="https://linktr.ee/devmaheremad">All links</a>
 </p>
